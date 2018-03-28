@@ -1,0 +1,21 @@
+E=Echange(S,T par pièce réemploi)
+R=Réparation
+D=Dépose/Repose
+C=Contrôle 
+Personnes présentes
+P=Peinture
+G=Réglage
+L=Lustrage
+N=Nettoyage
+EP=Echange Plastique
+PP=Réparation-Peint.Plastique
+RP=Réparation-Ajout mat.Plast 
+TOTAL FOURNITURES H.T.
+Usures des pneus
+Usure pneus
+TVA Ouvrant Droit
+Valeur neuve
+V.R.A.D.E.
+Résiduelle
+Diff.valeurs
+VGA
